@@ -8,3 +8,4 @@
 
 <h1>TECNOLOGIAS USADAS</h1>
 <br>
+<img src="https://github.com/heliobispo82/Bispo-soteador/blob/main/assets/HTML%20RECORTADO.png" width="80px" >
