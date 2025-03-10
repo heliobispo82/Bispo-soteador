@@ -13,5 +13,10 @@
 <img src="https://github.com/heliobispo82/Bispo-soteador/blob/main/assets/CSS%20RECORTADO.png"  width="75px" height="109px">
 <img src="https://github.com/heliobispo82/Bispo-soteador/blob/main/assets/JS%20RECORTADO.png"   width="61.8px">
 </p>
+<h1>project view</h1>
+<p>
+  <img src="https://github.com/heliobispo82/Bispo-soteador/blob/main/assets/mobile.png" width=120px>
+  <img src="https://github.com/heliobispo82/Bispo-soteador/blob/main/assets/desktop.png" width=300px height=230px> 
+</p>
 
 
